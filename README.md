@@ -1,8 +1,9 @@
 # 🎨 React Background Changer App
 
 ## 📸 Screenshot
-
-> Place your screenshot at: `public/screenshot.png`
+<img width="937" height="648" alt="Screenshot 2025-07-15 171439" src="https://github.com/user-attachments/assets/0385bee5-d090-4cd6-99ab-2bd1c6c790c0" />
+<img width="1141" height="649" alt="Screenshot 2025-07-15 171354" src="https://github.com/user-attachments/assets/1480793e-9ed1-4baf-adc1-1da24773c0b9" />
+<img width="892" height="553" alt="Screenshot 2025-07-15 171409" src="https://github.com/user-attachments/assets/04023926-e1a4-4e78-8240-597860526a38" />
 ---
 
 ## 📝 Description

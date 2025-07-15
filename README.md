@@ -21,6 +21,9 @@ Built for style and speed, this app also supports dark mode and includes sleek a
 
 ---
 
+## 🚀 Live Demo
+https://color-hi-color.netlify.app/
+
 ## 🚀 Features
 
 - 🔘 Toggle panel with 3 color input modes
@@ -48,3 +51,4 @@ git clone https://github.com/your-username/background-changer-app.git
 cd background-changer-app
 npm install
 npm run dev
+```
